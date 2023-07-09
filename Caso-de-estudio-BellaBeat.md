@@ -3,9 +3,9 @@ Caso de estudio BellaBeat
 Gabriela Pinilla
 2023-07-08
 
-\# Caso de estudio de Bellabeat
+# Caso de estudio de Bellabeat
 
-\## Acerca de la empresa
+## Acerca de la empresa
 
 La compañía Bellabeat es una empresa dedicada a fabricar productos
 dirigidos a la salud de la mujer fundada por Urška Sršen y Sando Mur en
