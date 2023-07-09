@@ -424,7 +424,7 @@ ggplot(data=actividad, aes(x=TotalDistance, y=Calories)) + geom_point() + geom_s
 #  theme(axis.text.x = element_text()) + labs(x="Fecha", y="Total de pasos", title="Total de pasos vs. # fecha")
 ```
 
-En el siguiente histograma, se muestra que
+En el siguiente histograma, se muestra que:
 
 ``` r
 hist(x= actividad$TotalDistance, main = "Histograma de la distancia total recorrida", xlab ="Distancia total", ylab="Frecuencia")
