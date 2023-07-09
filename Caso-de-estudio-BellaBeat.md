@@ -3,8 +3,6 @@ Caso de estudio BellaBeat
 Gabriela Pinilla
 2023-07-08
 
-# Caso de estudio de Bellabeat
-
 ## Acerca de la empresa
 
 La compañía Bellabeat es una empresa dedicada a fabricar productos
@@ -343,7 +341,7 @@ La cantidad de usuarios que caminan diez mil pasos o más son 7. Luego,
 los que caminan entre diez mil y cuatro mil son 20. Finalmente, los que
 caminan menos de cuatro mil son 6.
 
-*AQUI*
+*AQUI VOY*
 
 ``` r
 hist(x= pasos$media.TotalDistance, breaks=3, main = "Histograma de la distancia total promedio recorrida", xlab ="Distancia total promedio", ylab="Frecuencia")
